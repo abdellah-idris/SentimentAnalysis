@@ -1,6 +1,6 @@
 # SentimentAnalysis
 
-These university projects on Financial sentiment analysis.
+University projects on Financial sentiment analysis.
 
 ## Méthodology
 
