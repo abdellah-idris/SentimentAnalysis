@@ -42,9 +42,20 @@ https://huggingface.co/datasets/financial_phrasebank
 **BertTopic**
 ![image](https://github.com/abdellah-idris/SentimentAnalysis/assets/50142372/36a0f61b-9ec4-4715-9269-d068936b71c1)
 
+# Conclusion
+During this project we worked on a Sentiment Analysis project on financial data.
+
+We worked on various aspects:
+
+- Data exploration and visualisation
+- Data processing and vectorisation
+- Vectorisation with TF-IDF, BOW and word2vec
+- Natural language processing with logistic regression, naiveBaies and SVC models
+- Natural language processing with model transformers: Bert, Albert, Roberta and DistillBert
+- Topic processing
 
 
-
+In conclusion, our notebook demonstrates the power of machine learning and natural language processing to extract relevant information from textual data.
 
 
 
